@@ -1,0 +1,8 @@
+{
+  "name": "QuizCraft - Online Quiz & Assessment System",
+  "description": "Comprehensive quiz platform for educators and learners with AI question generation, timed assessments, and in-depth analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
